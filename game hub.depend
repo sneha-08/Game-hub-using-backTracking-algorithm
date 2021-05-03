@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1605716597 source:c:\users\sakthi\desktop\package\game hub\main.cpp
+	<iostream>
+	"sudoku.h"
+	"knightpath.h"
+	"ratmaze.h"
+
+1605712401 c:\users\sakthi\desktop\package\game hub\sudoku.h
+
+1605713224 c:\users\sakthi\desktop\package\game hub\knightpath.h
+
+1605714547 source:c:\users\sakthi\desktop\package\game hub\sudoku.cpp
+	<iostream>
+	"sudoku.h"
+
+1605714751 source:c:\users\sakthi\desktop\package\game hub\knightpath.cpp
+	<iostream>
+	<iomanip>
+	"knightpath.h"
+
+1605718627 source:c:\users\sakthi\desktop\package\game hub\ratmaze.cpp
+	<iostream>
+	"ratmaze.h"
+
+1605718627 c:\users\sakthi\desktop\package\game hub\ratmaze.h
+
+1605843351 source:c:\users\pikachu\desktop\dbms package\ratmaze.cpp
+	<graphics.h>
+	<stdio.h>
+	<dos.h>
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	"ratmaze.h"
+
+1605839993 c:\users\pikachu\desktop\dbms package\ratmaze.h
+
+1605767619 source:c:\users\pikachu\desktop\dbms package\sudoku.cpp
+	<iostream>
+	"sudoku.h"
+	<stdlib.h>
+
+1605767439 c:\users\pikachu\desktop\dbms package\sudoku.h
+
+1605767431 source:c:\users\pikachu\desktop\dbms package\knightpath.cpp
+	<iostream>
+	<iomanip>
+	"knightpath.h"
+
+1605767420 c:\users\pikachu\desktop\dbms package\knightpath.h
+
+1605840182 source:c:\users\pikachu\desktop\dbms package\main.cpp
+	<iostream>
+	<stdlib.h>
+	"sudoku.h"
+	"knightpath.h"
+	"ratmaze.h"
+
